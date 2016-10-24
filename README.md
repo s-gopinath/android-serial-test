@@ -1,8 +1,8 @@
 # android-serial-test
-linux-serial-test
+android-serial-test
 =================
 
-# Linux Serial Test Application
+# Android Serial Test Application
 
 # Usage
 
