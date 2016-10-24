@@ -1,5 +1,3 @@
-# android-serial-test
-
 # Android Serial Test Application
 
 # Usage
